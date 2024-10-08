@@ -1,0 +1,16 @@
+@startuml
+class Rectangle {
+  -width: int
+  -height: int
+  +Rectangle(width: int, height: int)
+  +area(): int
+  +perimeter(): int
+  +toString(): string
+  +equals(other: Rectangle): boolean
+  +compareTo(other: Rectangle): int
+  +hashCode(): int
+  +clone(): Rectangle
+
+}
+
+@enduml
