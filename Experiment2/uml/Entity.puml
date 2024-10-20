@@ -1,0 +1,20 @@
+@startuml
+class Node {
+  -id: int // 唯一编号
+  +Node(int id)
+  +getId(): int
+  +setId(int id): void
+  +equals(Object): boolean
+  +hashCode(): int
+}
+
+class Entity {
+  -type: String
+  -name: String
+  -attribute: String
+  +Entity(int id, String type, String name, String attribute)
+  +Entity(int id)
+  .. Node <|-- Entity : extends
+}
+
+@enduml

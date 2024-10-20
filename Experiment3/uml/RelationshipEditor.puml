@@ -1,0 +1,18 @@
+@startuml
+abstract class Editor<T> {
+  -target: T
+  +values(): String[]
+  +fieldNames(): String[]
+  +update(values: String[]): void
+  +getTarget(): T
+  +setTarget(target: T): void
+}
+
+class RelationshipEditor {
+  +values(): String[]
+  +fieldNames(): String[]
+  +update(values: String[]): void
+}
+
+ RelationshipEditor --|> Editor
+@enduml
