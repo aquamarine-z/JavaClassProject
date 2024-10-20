@@ -1,0 +1,20 @@
+@startuml
+interface Decoder{
+    + canDecode(String path):boolean
+    + decode(String path):String
+}
+class MP3Decoder{
+    + canDecode(String path):boolean
+    + decode(String path):String
+}
+class WAVDecoder{
+    + canDecode(String path):boolean
+    + decode(String path):String
+}
+class Player{
+    + play(String path):String
+}
+Player <--* Decoder
+Decoder <|.. MP3Decoder
+Decoder <|.. WAVDecoder
+@enduml

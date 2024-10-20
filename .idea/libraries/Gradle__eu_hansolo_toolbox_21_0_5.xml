@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.hansolo:toolbox:21.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="eu.hansolo" artifactId="toolbox" version="21.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.hansolo/toolbox/21.0.5/b0fc9f2e9a0c61f078c45664d1951690a03dbb3e/toolbox-21.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

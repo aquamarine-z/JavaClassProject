@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.almasb:fxgl:17.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.almasb" artifactId="fxgl" version="17.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.almasb/fxgl/17.3/614d2b2607c97fe7b539dfa75036066a8010f74b/fxgl-17.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

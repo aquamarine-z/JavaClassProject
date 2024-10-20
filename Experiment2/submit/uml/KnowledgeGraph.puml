@@ -1,0 +1,61 @@
+@startuml
+class Node {
+  -id: int
+  +Node(int id)
+  +getId(): int
+  +setId(int id): void
+  +equals(Object): boolean
+  +hashCode(): int
+}
+
+class Edge {
+  -from: Node
+  -to: Node
+  +Edge(Node, Node)
+  +getFrom(): Node
+  +setFrom(Node): void
+  +getTo(): Node
+  +setTo(Node): void
+  +equals(Object): boolean
+  +hashCode(): int
+}
+
+class Entity {
+  -type: String
+  -name: String
+  -attribute: String
+  +Entity(int id, String type, String name, String attribute)
+  +Entity(int id)
+  .. Node <|-- Entity : extends
+}
+
+class Relationship {
+  -name: String
+  -attribute: String
+  +Relationship(Node, Node, String, String)
+  +Relationship(Node, Node)
+  .. Edge <|-- Relationship : extends
+}
+
+class KnowledgeGraph {
+  -entities: Set<Entity>
+  -relations: Set<Relationship>
+  -outMap: Map<Entity, Set<Relationship>>
+  -inMap: Map<Entity, Set<Relationship>>
+  -seqNumber: int
+  +KnowledgeGraph()
+  +addEntity(String type, String name, String attribute): Optional<Entity>
+  +addEntity(Entity): boolean
+  +addRelation(Entity, Entity): Optional<Relationship>
+  +removeEntity(Entity): void
+  +removeAllRelsByFrom(Entity): void
+  +removeAllRelsByTo(Entity): void
+  +getEntities(): Set<Entity>
+  +getRelations(): Set<Relationship>
+}
+
+Node <|-- Entity
+Edge <|-- Relationship
+KnowledgeGraph <--* Entity
+KnowledgeGraph <--* Relationship
+@enduml

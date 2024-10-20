@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Experiment3:main" external.linked.project.path="$MODULE_DIR$/../../Experiment3" external.root.project.path="$MODULE_DIR$/../../Experiment3" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../Experiment3/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Experiment3/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../Experiment3/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Experiment3/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-fxml:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-web:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-swing:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:win:21" level="project" />
+    <orderEntry type="library" name="Gradle: org.controlsfx:controlsfx:11.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.dlsc.formsfx:formsfx-core:11.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.synedra:validatorfx:0.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.kordamp.ikonli:ikonli-javafx:12.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: eu.hansolo:tilesfx:21.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.almasb:fxgl:17.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.kordamp.ikonli:ikonli-core:12.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: eu.hansolo.fx:countries:21.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.almasb:fxgl-io:17.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.almasb:fxgl-entity:17.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.almasb:fxgl-gameplay:17.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.almasb:fxgl-scene:17.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.almasb:fxgl-core:17.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.gluonhq.attach:lifecycle:4.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: eu.hansolo.fx:heatmap:21.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.gluonhq.attach:storage:4.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: com.gluonhq.attach:util:4.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.gluonhq.attach:audio:4.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: eu.hansolo:toolboxfx:21.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: eu.hansolo:toolbox:21.0.5" level="project" />
+  </component>
+</module>

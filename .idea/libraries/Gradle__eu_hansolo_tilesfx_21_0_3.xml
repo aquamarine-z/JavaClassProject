@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.hansolo:tilesfx:21.0.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="eu.hansolo" artifactId="tilesfx" version="21.0.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.hansolo/tilesfx/21.0.3/e81280bd504d93df331d7850a66e0dcfbe71b3aa/tilesfx-21.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

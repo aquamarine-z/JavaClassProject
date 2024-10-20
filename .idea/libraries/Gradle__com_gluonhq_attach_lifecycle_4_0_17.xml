@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gluonhq.attach:lifecycle:4.0.17" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.gluonhq.attach" artifactId="lifecycle" version="4.0.17" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/lifecycle/4.0.17/efe9f0c28d9b25300ac75bb30b9940991fb3e0b4/lifecycle-4.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

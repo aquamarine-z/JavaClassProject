@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.hansolo.fx:countries:21.0.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="eu.hansolo.fx" artifactId="countries" version="21.0.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.hansolo.fx/countries/21.0.3/847fee81874e600503a2ae702ee20347e528237/countries-21.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

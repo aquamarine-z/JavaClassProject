@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.controlsfx:controlsfx:11.2.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.controlsfx" artifactId="controlsfx" version="11.2.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.controlsfx/controlsfx/11.2.1/e0f2568b8ee6e7a1639741f21b0024277ecbb7a7/controlsfx-11.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

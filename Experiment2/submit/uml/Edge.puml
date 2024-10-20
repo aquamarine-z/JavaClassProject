@@ -1,0 +1,13 @@
+@startuml
+class Edge {
+  -from: Node
+  -to: Node
+  +Edge(Node, Node)
+  +getFrom(): Node
+  +setFrom(Node): void
+  +getTo(): Node
+  +setTo(Node): void
+  +equals(Object): boolean
+  +hashCode(): int
+}
+@enduml

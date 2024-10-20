@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gluonhq.attach:storage:4.0.17" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.gluonhq.attach" artifactId="storage" version="4.0.17" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/storage/4.0.17/c42466bfdc5f1f9d4d884ca21a3574715ca0b221/storage-4.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
