@@ -2,7 +2,7 @@
   <library name="Gradle: com.gluonhq.attach:util:4.0.17" type="java-imported" external-system-id="GRADLE">
     <properties groupId="com.gluonhq.attach" artifactId="util" version="4.0.17" />
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/util/4.0.17/f328cfa01ab3496012e31316e36bf3114b0900f2/util-4.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Build Tools/Gradle/Gradle_Home/caches/modules-2/files-2.1/com.gluonhq.attach/util/4.0.17/f328cfa01ab3496012e31316e36bf3114b0900f2/util-4.0.17.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -2,7 +2,7 @@
   <library name="Gradle: eu.hansolo:toolboxfx:21.0.3" type="java-imported" external-system-id="GRADLE">
     <properties groupId="eu.hansolo" artifactId="toolboxfx" version="21.0.3" />
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.hansolo/toolboxfx/21.0.3/83dfcdf77277d7ac91c352d18e1f72b07e8834df/toolboxfx-21.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Build Tools/Gradle/Gradle_Home/caches/modules-2/files-2.1/eu.hansolo/toolboxfx/21.0.3/83dfcdf77277d7ac91c352d18e1f72b07e8834df/toolboxfx-21.0.3.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

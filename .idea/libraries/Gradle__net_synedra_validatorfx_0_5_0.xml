@@ -2,7 +2,7 @@
   <library name="Gradle: net.synedra:validatorfx:0.5.0" type="java-imported" external-system-id="GRADLE">
     <properties groupId="net.synedra" artifactId="validatorfx" version="0.5.0" />
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.synedra/validatorfx/0.5.0/8eaa2e85f8f4370dc2ecd050c5627b064cb3ec74/validatorfx-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Build Tools/Gradle/Gradle_Home/caches/modules-2/files-2.1/net.synedra/validatorfx/0.5.0/8eaa2e85f8f4370dc2ecd050c5627b064cb3ec74/validatorfx-0.5.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
